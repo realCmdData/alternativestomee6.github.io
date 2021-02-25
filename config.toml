@@ -53,5 +53,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "https://github.com/realCmdData/alternativestomee6.github.io"
 
   [params.logo]
-    darkMode = "site/icon.svg"
-    lightMode = "site/icon.svg"
+    darkMode = "images/logo.svg"
+    lightMode = "images/logo.svg"
