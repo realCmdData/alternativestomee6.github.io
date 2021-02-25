@@ -2,3 +2,22 @@
 title: "Alternatives to MEE6"
 description: "MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 can and more!"
 ---
+
+# Alternatives to MEE6
+
+MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 can and more!
+
+Levelling:
+- []()
+
+Moderation:
+- []()
+
+Utilities:
+- []()
+
+Welcome Messages:
+- []()
+
+Custom Commands:
+- []()
