@@ -9,10 +9,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [outputs]
   home = ["HTML", "RSS","JSON"]
 
-#  menu items
-[[menu.main]]
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
