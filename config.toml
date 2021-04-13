@@ -43,6 +43,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   codeMaxLines = 20
 
   codeLineNumbers = true
+  customCSS = ["css/custom.css"]
 
   [params.source]
     name = "GitHub"
