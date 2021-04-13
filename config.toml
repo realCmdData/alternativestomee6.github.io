@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Everything below this are Site Params
 
 [params]
-
+  metaThemeColor = "#6ed2f8"
   repo = "https://github.com/realCmdData/alternativestomee6.github.io"
 
   time_format_blog = "Monday, January 02, 2006"
@@ -43,7 +43,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   codeMaxLines = 20
 
   codeLineNumbers = true
-  metaThemeColor = "#6ed2f8"
 
   [params.source]
     name = "GitHub"
