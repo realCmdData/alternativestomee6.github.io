@@ -36,7 +36,7 @@ Price: $0
 The best and most stylish way to give users their roles! But of course Mee6 only allows ONE message, and on that message only TWO reaction roles! Zira lets you assign multiple reaction role messages, multiple channels, no role limitations, autoroles on join, variable reaction roles, multiple roles from one reaction and more! 
 Price: $0
 
-## Leveling: https://pepe-is.life
+## Leveling: https://pepe-is.life/bot
 The one reason everyone knows Mee6, and probably the most restrictive “feature”. Mee6 doesn’t let you assign roles as a reward, doesn’t let you change the XP rate, doesn’t let admins give or take away XP, and lacks some pretty keys customization features! Pepe Manager is a new take for server leveling, completely free and unrestrictive. It lets you single out specific channels where members can gain XP, gives a comprehensive leaderboard embedded message with pagination up to 100 members, a user-friendly image-based leveling card that fits right into Discords design, custom role rewards for reaching certain levels, up to 5 roles for the same level, custom role reward for the highest ranking person on the server each day, and constant updates to make leveling accessible for everyone!
 Price: $0
 
