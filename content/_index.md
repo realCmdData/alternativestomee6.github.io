@@ -7,7 +7,7 @@ description: "MEE6 is an awful bot, so here's a list of better bots that do ever
 
 MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 can and more!
 
-## Welcome Images: https://top.gg/bot/probot
+## Welcome Images: https://probot.io/
 ProBot offers in-depth Welcome Image customization, including which channel to send the image to, whether or not to include some sort of text, either before or after the image. You can customize the background of the welcome image, what the text on the image will look like and even say, and so much more! 
 Price: $0
 
@@ -15,28 +15,28 @@ Price: $0
 Dyno is still one of the most comprehensively complex and feature-rich free Discord bot out there. While the free tier of Mee6 only offers 3 custom commands, Dyno custom commands are as far as we can tell, limitless! You can change how the command will react to the user, change who can execute the command and where, add cooldowns and arguments, and add a whole bunch of variables and advanced variables that can make your custom command positively sophisticated!
 Price: $0
 
-## Embed Messages: https://top.gg/bot/embedgenerator
+## Embed Messages: https://discord.club/
 Mee6 only allows A SINGLE embedded messages to be sent across your entire server without premium. Embed Generator is a web-dashboard powered bot that uses Discord webhooks to create and send comprehensive embedded messages. The website is easy and simple to use, let’s you send up to 10 embedded messages within one webhook, shows you a live-preview of what the embed will look like, and even lets you store your custom embed for later use!
 Price: $0
 
-## Audio Recording: https://top.gg/bot/craig
+## Audio Recording: https://craig.chat/home/
 Mee6 only allows 2 minutes of audio recording, which frankly may as well be nothing at all. Craig let’s you record nearly unlimited audio recordings of your voice channel conversations, tweak and edit your recordings and can split each person into their own audio track! The best bot to have for let’s play recordings, podcast recordings and a whole host of other uses!
 Price: $0
 
-## Audit Logging: https://top.gg/bot/298822483060981760
+## Audit Logging: https://logger.bot/
 Some events? What are some? Don’t you worry, logger won’t skimp out on logs! With a single command you can let logger log literally everything the API lets it log about your server! It can log when a channel is created/edited/deleted, a user is banned/unbanned, Emojis are created/edited/deleted, a user joins/leaves/is kicked, a bot is added to the server, a user is given/revoked a role, a role is created/edited/deleted, show role and channel permissions that are changed, server properties are updated (name, region, moderation, etc), a message is updated/deleted/bulk deleted, a user is given a nickname, a user joins/leaves a voice channel, a user is muted/deafened in a voice channel.
 Price: $0
 
 
-## Automoderation (server invites, external links): https://top.gg/bot/auttaja
+## Automoderation (server invites, external links): https://auttaja.io/
 The bread and butter of moderating a discord server, is blocking links to other discord servers. Auttaja not only blocks server invites and external links, it has a web dashboard aswell and will quickly become your new favourite moderation bot! Block advertisements, Excess capitals, staff nukes, quick-join bocking (Raids), anti-link shorteners, anti-spam, anti-zalgo, bad link protection, mention spam and bad nickname blocking! 
 Price: $0
 
-## Reaction Roles: https://top.gg/bot/275813801792634880
+## Reaction Roles: https://zira.gg/
 The best and most stylish way to give users their roles! But of course Mee6 only allows ONE message, and on that message only TWO reaction roles! Zira lets you assign multiple reaction role messages, multiple channels, no role limitations, autoroles on join, variable reaction roles, multiple roles from one reaction and more! 
 Price: $0
 
-## Leveling: https://top.gg/bot/506186003816513538
+## Leveling: https://pepe-is.life
 The one reason everyone knows Mee6, and probably the most restrictive “feature”. Mee6 doesn’t let you assign roles as a reward, doesn’t let you change the XP rate, doesn’t let admins give or take away XP, and lacks some pretty keys customization features! Pepe Manager is a new take for server leveling, completely free and unrestrictive. It lets you single out specific channels where members can gain XP, gives a comprehensive leaderboard embedded message with pagination up to 100 members, a user-friendly image-based leveling card that fits right into Discords design, custom role rewards for reaching certain levels, up to 5 roles for the same level, custom role reward for the highest ranking person on the server each day, and constant updates to make leveling accessible for everyone!
 Price: $0
 
