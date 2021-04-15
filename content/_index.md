@@ -16,7 +16,7 @@ ___
 
 ### Welcome Images - [ProBot](https://probot.io/)
 ProBot offers in-depth Welcome Image customization, including which channel to send the image to, whether or not to include some sort of text, either before or after the image. You can customize the background of the welcome image, what the text on the image will look like and even say, and so much more! <br />
-Price: $0
+Price: <p style="color:green">$0</p>
 
 ### Custom Commands - [Dyno](https://dyno.gg/)
 Dyno is still one of the most comprehensively complex and feature-rich free Discord bot out there. While the free tier of Mee6 only offers 3 custom commands, Dyno custom commands are as far as we can tell, limitless! You can change how the command will react to the user, change who can execute the command and where, add cooldowns and arguments, and add a whole bunch of variables and advanced variables that can make your custom command positively sophisticated! <br />
