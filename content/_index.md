@@ -9,8 +9,9 @@ MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 ca
 
 {{< button "https://discord.gg/geWPuYTQfX" "Join The Discord" >}}
 
+
 ___
-**Premium** MEE6 Alternatives
+## **Premium** MEE6 Alternatives
 ___
 
 ### Welcome Images: [ProBot](https://probot.io/)
