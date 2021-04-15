@@ -16,7 +16,7 @@ ___
 
 ### Welcome Images - [ProBot](https://probot.io/)
 ProBot offers in-depth Welcome Image customization, including which channel to send the image to, whether or not to include some sort of text, either before or after the image. You can customize the background of the welcome image, what the text on the image will look like and even say, and so much more! <br />
-Price: <p style="color:green">$0</p>
+Price: $0
 
 ### Custom Commands - [Dyno](https://dyno.gg/)
 Dyno is still one of the most comprehensively complex and feature-rich free Discord bot out there. While the free tier of Mee6 only offers 3 custom commands, Dyno custom commands are as far as we can tell, limitless! You can change how the command will react to the user, change who can execute the command and where, add cooldowns and arguments, and add a whole bunch of variables and advanced variables that can make your custom command positively sophisticated! <br />
@@ -74,7 +74,9 @@ ___
 The newest addition to MEE6 aims to solve a problem and fill a segment of the Discord server market that was already filled up. ServerStats is a very simple solution to adding counter-style voice channels to your server. With one command this bot creates a category displaying All Members, True User Members and Bot Members. This can be scaled up easily and you can add pending users (users who haven't accepted the rules), the number of roles, the amount of users in a role, the amount of emojis, the amount of static or animated emojis, the amount of boosts and the current boost tier. While the number of online vs. offline members can't be displayed without being a donator, this bot offers more than even MEE6 donators get, in the form of emoji and boost counters. <br />
 Price: $0
 
-
+### Birthdays - [Birthday Bot](https://top.gg/bot/656621136808902656)
+Quite a simple but enjoyable addition to any friend or community server. Birthday Bot lets you fully customize the birthday announcement message, lets users enter their own specific timezone, global birthday sharing, control over who's birthday actually gets announced (Per roles), what channel the announcement gets sent, and even customize up to 10 different messages (For the free version) that gets randomly sent with each birthday! <br />
+Price: $0
 ___
 
 ### The bottom line:
