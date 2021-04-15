@@ -77,6 +77,10 @@ Price: $0
 ### Birthdays - [Birthday Bot](https://top.gg/bot/656621136808902656)
 Quite a simple but enjoyable addition to any friend or community server. Birthday Bot lets you fully customize the birthday announcement message, lets users enter their own specific timezone, global birthday sharing, control over who's birthday actually gets announced (Per roles), what channel the announcement gets sent, and even customize up to 10 different messages (For the free version) that gets randomly sent with each birthday! <br />
 Price: $0
+
+### Music Quiz - [K-pop Music Quiz](https://top.gg/bot/508759831755096074)
+While this is limiting in terms of the genre of music, we still think it's better than MEE6's offering in some very significant regards. Getting started is as simple as joining a voice channel and running the start command. There are 2 different modes, team and elimination mode, where in elimination mode you can also customize the timer the remaining players have to answer. There is also an EXP system to reward good players, special EXP modifiers and so much more. This bot is infinitely more customizeable than MEE6's music quiz offering, even if it only plays K-pop. If you want to suggest a better alternative, join our [Discord server](https://discord.gg/geWPuYTQfX)! <br />
+Price: $0 
 ___
 
 ### The bottom line:
