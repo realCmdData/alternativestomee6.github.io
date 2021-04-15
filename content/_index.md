@@ -9,7 +9,9 @@ MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 ca
 
 {{< button "https://discord.gg/" "Join The Discord" >}}
 
-## Welcome Images: [ProBot](https://probot.io/)
+___
+
+### Welcome Images: [ProBot](https://probot.io/)
 ProBot offers in-depth Welcome Image customization, including which channel to send the image to, whether or not to include some sort of text, either before or after the image. You can customize the background of the welcome image, what the text on the image will look like and even say, and so much more! 
 Price: $0
 
