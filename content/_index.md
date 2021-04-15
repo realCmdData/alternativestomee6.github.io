@@ -11,7 +11,7 @@ MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 ca
 
 
 ___
-## *Premium* MEE6 Alternatives
+## *Premium* MEE6 Features Alternatives
 ___
 
 ### Welcome Images: [ProBot](https://probot.io/)
@@ -62,6 +62,15 @@ Price: $0
 
 ### Custom Prefix:
 For this, we don’t have a specific recommendation. Pretty much every single bot out there worth its salt has a customizable prefix, and the reason being; compatibility. Right now there are so many bots out there, and so many of them have the same common prefix. Being able to change the prefix for your particular server is essential for the bots to work together, and not against each other. Forcing a specific prefix, and an extremely common prefix at that, onto your userbase is plainly arrogant and egotistical. It screams that whoever uses your bot wil value it over all other bots, and that changing the prefix is an “advanced” or “professional” setting that you won’t need. Newsflash; you do need it. 
+
+___
+## *Free* MEE6 Features Alternatives
+___
+
+### Statistics [Member Count](https://serverstatsbot.com/)
+The newest addition to MEE6 aims to solve a problem and fill a segment of the Discord server market that was already filled up. ServerStats is a very simple solution to adding counter-style voice channels to your server. With one command this bot creates a category displaying All Members, True User Members and Bot Members. This can be scaled up easily and you can add pending users (users who haven't accepted the rules), the number of roles, the amount of users in a role, the amount of emojis, the amount of static or animated emojis, the amount of boosts and the current boost tier. While the number of online vs. offline members can't be displayed without being a donator, this bot offers more than even MEE6 donators get, in the form of emoji and boost counters. <br />
+Price: $0
+
 
 ___
 
