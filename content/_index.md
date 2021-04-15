@@ -6,6 +6,7 @@ description: "MEE6 is an awful bot, so here's a list of better bots that do ever
 # Alternatives to MEE6
 
 MEE6 is an awful bot, so here's a list of better bots that do everything MEE6 can and more!
+
 {{< button "https://discord.gg/" "Join The Discord" >}}
 
 ## Welcome Images: [ProBot](https://probot.io/)
