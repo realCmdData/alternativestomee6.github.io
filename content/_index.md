@@ -63,7 +63,7 @@ Price: $0
 Yet another RSS feature as old as the internet itself locked behind a paywall. StreamTicker is a super simple to use, relatively unkown bot that does all three in the manner you always wanted. A single command to add a counter for your YouTube channel. Another command for your Twitter followers, and one more for your Twitch followers! It's stupidly simple to use, lets you customize the counters, or tickers yourself, lets you create and load ticket presets, lets you force refresh tickers for a more hands-on approach and even has a built-in guide to get you setup in no time! <br />
 Price: $0
 
-### Custom Prefix -
+### Custom Prefix
 For this, we don’t have a specific recommendation. Pretty much every single bot out there worth its salt has a customizable prefix, and the reason being; compatibility. Right now there are so many bots out there, and so many of them have the same common prefix. Being able to change the prefix for your particular server is essential for the bots to work together, and not against each other. Forcing a specific prefix, and an extremely common prefix at that, onto your userbase is plainly arrogant and egotistical. It screams that whoever uses your bot wil value it over all other bots, and that changing the prefix is an “advanced” or “professional” setting that you won’t need. Newsflash; you do need it. 
 
 ___
