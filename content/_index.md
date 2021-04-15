@@ -70,7 +70,7 @@ ___
 ## *Free* MEE6 Features Alternatives
 ___
 
-### Statistics (Server Stats) - [Member Count](https://serverstatsbot.com/)
+### Statistics (Server Stats) - [ServerStats](https://serverstatsbot.com/)
 The newest addition to MEE6 aims to solve a problem and fill a segment of the Discord server market that was already filled up. ServerStats is a very simple solution to adding counter-style voice channels to your server. With one command this bot creates a category displaying All Members, True User Members and Bot Members. This can be scaled up easily and you can add pending users (users who haven't accepted the rules), the number of roles, the amount of users in a role, the amount of emojis, the amount of static or animated emojis, the amount of boosts and the current boost tier. While the number of online vs. offline members can't be displayed without being a donator, this bot offers more than even MEE6 donators get, in the form of emoji and boost counters. <br />
 Price: $0
 
