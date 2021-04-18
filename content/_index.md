@@ -23,7 +23,7 @@ Dyno is still one of the most comprehensively complex and feature-rich free Disc
 Price: $0
 
 ### Embed Messages - [Embed Generator](https://discord.club/)
-Mee6 only allows A SINGLE embedded messages to be sent across your entire server without premium. Embed Generator is a web-dashboard powered bot that uses Discord webhooks to create and send comprehensive embedded messages. The website is easy and simple to use, let’s you send up to 10 embedded messages within one webhook, shows you a live-preview of what the embed will look like, and even lets you store your custom embed for later use! <br />
+Mee6 only allows A SINGLE embedded messages to be sent across your entire server without premium. Embed Generator is a web-dashboard powered bot that uses Discord webhooks to create and send comprehensive embedded messages. The website is easy and simple to use, lets you send up to 10 embedded messages within one webhook, shows you a live-preview of what the embed will look like, and even lets you store your custom embed for later use! <br />
 Price: $0
 
 ### Audio Recording - [Craig](https://craig.chat/home/)
