@@ -39,6 +39,11 @@ Price: $0
 The bread and butter of moderating a discord server, is blocking links to other discord servers. Auttaja not only blocks server invites and external links, it has a web dashboard aswell and will quickly become your new favourite moderation bot! Block advertisements, Excess capitals, staff nukes, quick-join bocking (Raids), anti-link shorteners, anti-spam, anti-zalgo, bad link protection, mention spam and bad nickname blocking! <br />
 Price: $0
 
+### Automoderation (server invites, external links) __Two__ - [Gaius Cicereius](https://gaiusbot.me/)
+This bot is a great, easy to use moderation bot, including pre-made filters for an even easy setup time including URL, Invite, Swearing, Offensive & Innapropriate language filters. Gaius will also always be on the lookout for phishing or scamming links globally, so you don't have to risk your IP or your computer to find out if the link is trustworthy. On top of all of that it also offers NSFW image detection on top of the Discord built-in NSFW detection. It has the whole suite of manual moderation commands to keep your moderators organized, automatic anti-raid countermeasures, user verification and so much more! <br />
+Price: $0
+
+
 ### Reaction Roles - [Zira](https://zira.gg/)
 The best and most stylish way to give users their roles! But of course Mee6 only allows ONE message, and on that message only TWO reaction roles! Zira lets you assign multiple reaction role messages, multiple channels, no role limitations, autoroles on join, variable reaction roles, multiple roles from one reaction and more! <br />
 Price: $0
@@ -47,8 +52,8 @@ Price: $0
 The one reason everyone knows Mee6, and probably the most restrictive “feature”. Mee6 doesn’t let you assign roles as a reward, doesn’t let you change the XP rate, doesn’t let admins give or take away XP, and lacks some pretty keys customization features! Pepe Manager is a new take for server leveling, completely free and unrestrictive. It lets you single out specific channels where members can gain XP, gives a comprehensive leaderboard embedded message with pagination up to 100 members, a user-friendly image-based leveling card that fits right into Discords design, custom role rewards for reaching certain levels, up to 5 roles for the same level, custom role reward for the highest ranking person on the server each day, and constant updates to make leveling accessible for everyone! <br />
 Price: $0
 
-### Leveling Two - [Pancake](https://pancake.gg/commands)
-Pancake is another great bot with lots of features but we’ll focus on it’s leveling features for now. Pancake offers leveling features such as a level calculator, leaderboard, customizable level-up message, on-level role rewards, reset levels, xp channel whitelisting and more! If simplicity and ease-of-use are of paramount importance, we can definitely recommend Pancake! <br />
+### Leveling __Two__ - [ActivityRank](https://activityrank.me/index)
+ActivityRank is another great dedicated leveling bot with deep customization. It lets you set exactly how you want users to gain XP and what to do with that XP, like for example recieving roles when they reach a certain level. ActivityRank lets you change XP per activity, muted XP, deafend XP, solo XP, invisible XP, bonus time and bonus XP, noXP roles and channels, role assign messages, level up messages and so so much more. Even though ActivityRank does have a premium version, all of it's XP related commands are free to use! <br />
 Price: $0
 
 ### YouTube/Twitch/Reddit/Twitter Notifications - [Monitorss](https://monitorss.xyz/)
@@ -78,7 +83,11 @@ Price: $0
 Quite a simple but enjoyable addition to any friend or community server. Birthday Bot lets you fully customize the birthday announcement message, lets users enter their own specific timezone, global birthday sharing, control over who's birthday actually gets announced (Per roles), what channel the announcement gets sent, and even customize up to 10 different messages (For the free version) that gets randomly sent with each birthday! <br />
 Price: $0
 
-### Music Quiz - [K-pop Music Quiz](https://top.gg/bot/508759831755096074)
+### Music Quiz/Guess The Song - [Jockie Music](https://www.jockiemusic.com/commands?category=game)
+Apart from this bot being a conventionally good music bot with an absolute ass-load of features, the one we're showcasing now is the Guess The Song, or the Music Quiz feature. Not only can you create music quizzes for free, but you can choose to not include certain genres of music, or only include specific genres. You can also specific from which era of music history you're most knowledgable in, and you can even include a Spotify playlist and let the bot determine the style of music you want! Lastly you can determine the winning number of songs guessed correctly, and the number of songs in total! <br />
+Price: $0
+
+### K-Pop Music Quiz - [K-pop Music Quiz](https://top.gg/bot/508759831755096074)
 While this is limiting in terms of the genre of music, we still think it's better than MEE6's offering in some very significant regards. Getting started is as simple as joining a voice channel and running the start command. There are 2 different modes, team and elimination mode, where in elimination mode you can also customize the timer the remaining players have to answer. There is also an EXP system to reward good players, special EXP modifiers and so much more. This bot is infinitely more customizeable than MEE6's music quiz offering, even if it only plays K-pop. If you want to suggest a better alternative, join our [Discord server](https://discord.gg/geWPuYTQfX)! <br />
 Price: $0 
 ___
