@@ -44,7 +44,7 @@ This bot is a great, easy to use moderation bot, including pre-made filters for 
 Price: $0
 
 
-### Reaction Roles - [Zira](https://zira.gg/)
+### Reaction Roles - [Zira](https://zira.bot/)
 The best and most stylish way to give users their roles! But of course Mee6 only allows ONE message, and on that message only TWO reaction roles! Zira lets you assign multiple reaction role messages, multiple channels, no role limitations, autoroles on join, variable reaction roles, multiple roles from one reaction and more! <br />
 Price: $0
 
