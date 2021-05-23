@@ -92,7 +92,7 @@ While this is limiting in terms of the genre of music, we still think it's bette
 Price: $0 
 
 ### Mr. Infinity - [Mr. Infinity](https://top.gg/bot/720321585625694239)
-Bot which contains a simple image manipulation system, music system, moderation system, giveawy system, welcome system. It also includes antispam and many features to better protect your server. The bot is simple and easy to set up even if it doesn't have a web dashboard. It's all free and doesn't advertise. You can make up to 20 giveaways at once. It has 99.99% uptime. <br />
+Bot which contains a simple image manipulation system, music system, moderation system, giveaway system, welcome system. It also includes antispam and many features to better protect your server. The bot is simple and easy to set up even if it doesn't have a web dashboard. It's all free and doesn't advertise. You can make up to 20 giveaways at once. It has 99.99% uptime. <br />
 Price: $0
 ___
 
