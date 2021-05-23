@@ -90,6 +90,10 @@ Price: $0
 ### K-Pop Music Quiz - [K-pop Music Quiz](https://top.gg/bot/508759831755096074)
 While this is limiting in terms of the genre of music, we still think it's better than MEE6's offering in some very significant regards. Getting started is as simple as joining a voice channel and running the start command. There are 2 different modes, team and elimination mode, where in elimination mode you can also customize the timer the remaining players have to answer. There is also an EXP system to reward good players, special EXP modifiers and so much more. This bot is infinitely more customizeable than MEE6's music quiz offering, even if it only plays K-pop. If you want to suggest a better alternative, join our [Discord server](https://discord.gg/geWPuYTQfX)! <br />
 Price: $0 
+
+### Mr. Infinity - [Mr. Infinity](https://top.gg/bot/720321585625694239)
+Bot which contains a simple image manipulation system, music system, moderation system, giveaway system, welcome system. It also includes antispam and many features to better protect your server. The bot is simple and easy to set up even if it doesn't have a web dashboard. It's all free and doesn't advertise. You can make up to 20 giveaways at once. It has 99.99% uptime. <br />
+Price: $0
 ___
 
 ### The bottom line:
