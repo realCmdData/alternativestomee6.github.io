@@ -90,6 +90,17 @@ Price: $0
 ### K-Pop Music Quiz - [K-pop Music Quiz](https://top.gg/bot/508759831755096074)
 While this is limiting in terms of the genre of music, we still think it's better than MEE6's offering in some very significant regards. Getting started is as simple as joining a voice channel and running the start command. There are 2 different modes, team and elimination mode, where in elimination mode you can also customize the timer the remaining players have to answer. There is also an EXP system to reward good players, special EXP modifiers and so much more. This bot is infinitely more customizeable than MEE6's music quiz offering, even if it only plays K-pop. If you want to suggest a better alternative, join our [Discord server](https://discord.gg/geWPuYTQfX)! <br />
 Price: $0 
+
+___
+## Resources to Help You Transition
+___
+
+### MEE6 Levelling API Libraries
+These libraries allow you to interface with MEE6's levelling API so you can extract your server's level data to transfer to another bot.
+
+- [mee6-py-api](https://github.com/hyperevo/mee6-py-api) (Python)
+- [mee6-levels-api](https://github.com/rjt-rockx/mee6-levels-api) (JavaScript)
+
 ___
 
 ### The bottom line:
